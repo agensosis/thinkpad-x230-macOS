@@ -11,8 +11,11 @@
  - Intel Gigabit LAN 82579LM
  - Stock Touchpad with gesture
  - USB 2.0 + USB 3.0
+ - iMessage
+ - Facetime
 ## Know issues
  - SD Card reader (Too lazy to fix. Didn't use it)
+ - DRM (Use Chrome instead)
 
 ## UEFI Configuration
  - Config > Network > Wake on LAN : Disabled
