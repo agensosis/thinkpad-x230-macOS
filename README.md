@@ -32,3 +32,6 @@
  - Monterey update
 
 Note : You should generate your own SMBIOS. Use MacBookPro 11,1 (instruction: https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/ivy-bridge.html#platforminfo)
+
+## How To Install:
+ - Copy EFI folder into your bootable
