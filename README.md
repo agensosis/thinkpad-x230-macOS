@@ -13,7 +13,7 @@
  - USB 2.0 + USB 3.0
  - iMessage
  - Facetime
-## Know issues
+## Known issues
  - SD Card reader (Too lazy to fix. Didn't use it)
  - DRM (Use Chrome instead)
 
